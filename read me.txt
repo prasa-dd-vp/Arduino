@@ -1,0 +1,6 @@
+The program is written in sketch language.
+To run this code,
+ 1.Compile the code using the arduino software.
+ 2.Upload the code into the arduino uno board using the software.
+ 3.Give battery connection to the arduino uno board.
+These are the steps to run the application.
