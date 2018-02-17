@@ -1,0 +1,6 @@
+# Smart Jar
+
+## What is it?
+
+The proposed model is a smart device which can be integrated with a jar to make it a smart jar and can also be integrated in to the car to regulate the speed limit. The smart jar prevents the over consumption by closing the lid of the jar automatically when the threshold limit is exceeded. The device lets the related people to control the jar through a mobile application and also helps them monitor the status of a drunk person by prompting them with an alert message along with the location details. In order to avoid drunk and drive accidents, there are some of the proposed models which involves, prevention of engine ignition when the breathalyser in the car detects the presence of alcohol in the driver’s breath. Another technique involves the use of touch infrared sensor in the start button of the car which detects the Blood Alcohol Content (BAC) of the driver to prevent him/her from starting the car. The smart device in the proposed model imposes restrictions on the speed limit of the car in accordance to the BAC of the driver rather than stopping him from starting the car. This facilitates the driver to drive the car if he is mildly intoxicated which will not lead to any fatalities. 
+
